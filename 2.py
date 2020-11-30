@@ -1,2 +1,2 @@
-print('Hello git!')
-print('Hello Yandex!')
+print('HELLO GIT!')
+print('HELLO YANDEX!')
